@@ -70,7 +70,7 @@ public class PaperEditionMarshal {
                         InternetAddress.parse("elyashevich1998@mail.ru"));
                 message.setSubject("Testing Subject");
                 message.setText("Test Mail");
-
+///comment
                 Transport.send(message);
 
             } catch (MessagingException e) {
