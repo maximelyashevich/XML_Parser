@@ -41,5 +41,4 @@ public class PaperEditionMarshal {
             LOGGER.log(Level.ERROR, "JAXB-context is mistaken " + e);
         }
     }
-    //comment
 }
